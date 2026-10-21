@@ -94,4 +94,4 @@ Wi-Fi connection, forward, backward and stop control, ultrasonic distance (error
 - Automatic stop using the distance and IR sensors
 - Automatic crack or blockage detection from the camera
 ## Team
-Avinas Sumesh, Amal Mathew Thomas, Goutham Krishna, Nabil N, V Sivasankar
+22,14,32,46,66
