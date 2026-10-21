@@ -80,3 +80,18 @@ images/                       Photos and screenshots
 - /status :	Vehicle, LED and IR status
 - /led/on , /led/off :	Switch the inspection light
 - /led/status	: ON or OFF
+## Tested features
+Wi-Fi connection, forward, backward and stop control, ultrasonic distance (error of about 1 to 2 cm), IR obstacle detection, LED control, live camera stream, motor stop on Wi-Fi loss, and a run inside a pipe.
+## Known limitations
+- The robot depends on a Wi-Fi hotspot, and IP addresses can change when the hotspot restarts.
+- Video quality depends on hotspot signal strength.
+- One L298N drives all four motors, so motor current and driver temperature should be watched.
+## Possible improvements
+- Adjustable wheels or legs for different pipe diameters
+- Longer-range communication and saving of video and sensor data
+- Waterproof, dust-proof body and stronger motors
+- Gas or temperature sensor for hazardous pipes
+- Automatic stop using the distance and IR sensors
+- Automatic crack or blockage detection from the camera
+## Team
+Avinas Sumesh, Amal Mathew Thomas, Goutham Krishna, Nabil N, V Sivasankar
